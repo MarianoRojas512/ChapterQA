@@ -1,0 +1,14 @@
+{
+  "name": "chapterqa",
+  "version": "1.0.0",
+  "description": "Automation Learning QA Chapter Eagerworks",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.10.0"
+  }
+}
